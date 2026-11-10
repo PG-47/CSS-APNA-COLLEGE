@@ -1,0 +1,311 @@
+
+*{
+    margin : 0;
+    padding: 0;
+}
+
+body{
+    background-color:white;
+}
+
+#div1{
+    background-color : #171717;
+    border-color: #d8ac1d;
+    border-style: solid;
+    border-width:4px;
+    height:60px;
+}
+
+#amazon{
+    color : #d2a511;
+    font-size : 25px;
+    text-decoration: none;
+}
+#Account{
+    color:white;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#Mycart{
+    color:white;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#ContactUs{
+    color:white;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#input{
+    margin-left:200px;
+}
+#button1{
+    background-color : #D4AF37;
+    color:#0A0A0A;
+}
+
+
+
+.Contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display:inline-block; 
+}
+
+
+#div01{
+    background-color: rgba(255,65,85,0.5);
+}
+#div2{
+    background-color: rgba(255,0,255,0.5);
+}
+#div3{
+    background-color: rgba(225,225,84,0.5);
+}
+
+
+#content{
+    height: 638px;
+}
+
+footer{
+    background-color: #0f1111;
+    color:white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display: inline-block;
+}
+
+#pika{
+    background-color:rgba(255,0,0,0.5);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* This is my amazon nav bar code in next 2 lines */
+/* body{
+    background-color:#121212;
+}
+
+#div1{
+    background-color : #1E1E1E;
+    border-color: white;
+    border-style: solid;
+    border-width:4px;
+    height:60px;
+}
+
+#amazon{
+    color : #F59E0B;
+    font-size : 25px;
+}
+#Account{
+    color:#E5E7EB;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#Mycart{
+    color:#E5E7EB;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#ContactUs{
+    color:#E5E7EB;
+    text-decoration: none;
+    margin-left : 200px;
+}
+#input{
+    margin-left:200px;
+}
+#button1{
+    background-color : #F59E0B;
+    color:#E5E7EB;
+}
+ */
+/*
+*{
+    padding:0;
+    margin:0 ;
+}
+
+body{
+    background-color:#0A0A0A;
+}
+
+
+#div1{
+    background-color : #171717;
+    border-color: #D4AF37;
+    border-style: solid;
+    border-width:4px;
+    height:60px;
+}
+
+#amazon{
+    color : #D4AF37;
+    font-size : 25px;
+    text-decoration: none;
+}
+#Account{
+    color:white;
+    text-decoration: none;
+     margin-left : 200px; 
+}
+#Mycart{
+    color:white;
+    text-decoration: none;
+    margin-left : 200px; 
+}
+#ContactUs{
+    color:white;
+    text-decoration: none;
+     margin-left : 200px; 
+}
+#input{
+    margin-left:200px;
+}
+#button1{
+    background-color : #D4AF37;
+    color:#0A0A0A;
+}
+
+a{
+    margin-right : 200px;
+}
+
+*/
+/* #div1{
+    width:100px;
+    height:100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+/* h1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-width:3px;
+    border-style:dashed;
+    border-color:brown;
+    text-align:center;
+    border-radius:50%;
+}
+
+div{
+    height: 100px; 
+    background-color:pink;
+    width: 100px;
+    text-align:left;
+    border : 2px solid brown;
+    border-radius:15%;
+    padding-left:25px;
+    padding : 25px;
+    padding : 1px 2px 3px 4px;
+    margin-top : 50px;
+    margin-bottom : 50px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
